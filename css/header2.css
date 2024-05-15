@@ -1,0 +1,24 @@
+
+header
+{
+    display: flex;
+    justify-content: center;
+    background-color: darkgreen;
+    position: fixed;
+    width: 100%;
+}
+nav
+{
+    display: flex;
+    justify-content: center;
+}
+h1
+{
+    margin-right: 240px;
+    color: white;
+}
+h3
+{
+  margin: 1rem;
+  color: white;
+}

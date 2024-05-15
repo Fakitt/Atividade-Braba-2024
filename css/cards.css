@@ -1,0 +1,17 @@
+.cards
+{
+    justify-content: space-around;
+    display: flex;
+}
+
+.card1, .card2, .card3
+{
+    width: 200px;
+    height: 200px;
+    border: 1px solid #fafafa;
+}
+.a
+{
+    color: black;
+    margin: auto;
+}
